@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MukundSB19
-- 👀 I’m interested in Computers
 - 🌱 I’m currently learning HTML 5 
-- 💞️ I’m looking to collaborate on a prohect 
+- 💞️ I’m looking to collaborate on a project 
 - 📫 How to reach me (Mukundsingh05@outlook.com)
 
 
