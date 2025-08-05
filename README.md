@@ -1,4 +1,4 @@
-🔥 Mukund Singh – React Native Developer & Designer
+React Native Developer & Designer
 I'm Mukund Singh, a 20-year-old app developer and UI/UX designer with a deep passion for building clean, real-time, user-friendly mobile apps. I specialize in React Native, combining the power of JavaScript, typeScript and design to craft experiences that not only work  but feel great.
 
 I'm currently:
