@@ -1,4 +1,4 @@
-### Hi there, I'm Mukund! 👋
+### 🗣 What's good? I'm a dev building things that don't suck. 
 
 ```json
 {
