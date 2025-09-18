@@ -1,25 +1,30 @@
-const bioForGithub = {
-  name: "Mukund Singh",
-  age: 20,
-  title: "React Native Developer & App Developer",
-  passion: "Building clean, real-time, user-friendly mobile apps.",
-  specialties: [
+### Hi there, I'm Mukund! 👋
+
+```json
+{
+  "name": "Mukund Singh Bisht",
+  "age": 20,
+  "title": "React Native Developer & UI/UX Designer",
+  "passion": "Building clean, real-time, user-friendly mobile apps.",
+  "skills": [
     "React Native",
     "JavaScript",
     "TypeScript",
+    "Expo",
     "UI/UX Design"
   ],
-  currentActivities: {
-    building: "Projects with React Native, TypeScript, and Expo",
-    learning: ["Animations", "Backend Integration", "Real-time Logic"]
+  "currently": {
+    "building": "Projects with the latest mobile technologies.",
+    "learning": [
+      "Animations",
+      "Backend Integration",
+      "Real-time Logic"
+    ]
   },
-  longTermFocus: "Turning skills into solid income and long-term impact.",
-  motto: "Design like a user. Build like a hacker. Ship like a founder.",
-  contact: {
-    email: "Mukundsingh05@outlook.com",
-    X: "https://x.com/Mukundsinghhh"
-   
+  "motto": "Design like a user. Build like a hacker. Ship like a founder.",
+  "contact": {
+    "email": "Mukundsingh05@outlook.com",
+    "X": "[https://x.com/Mukundsinghhh](https://x.com/Mukundsinghhh)"
   }
-};
+}
 
-console.log(bioForGithub);
