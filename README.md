@@ -4,7 +4,7 @@
 {
   "name": "Mukund Singh Bisht",
   "age": 20,
-  "title": "React Native Developer & UI/UX Designer",
+  "title": "Mobile App developer",
   "passion": "Building clean, real-time, user-friendly mobile apps.",
   "skills": [
     "React Native",
