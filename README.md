@@ -11,7 +11,8 @@
     "JavaScript",
     "TypeScript",
     "Expo",
-    "UI/UX Design"
+    "UI/UX Design",
+    "Node js"
   ],
   "currently": {
     "building": "Projects with the latest mobile technologies.",
