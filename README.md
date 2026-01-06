@@ -7,6 +7,7 @@
   "title": "Mobile App developer",
   "passion": "Building clean, real-time, user-friendly mobile apps.",
   "skills": [
+    "React js"
     "React Native",
     "JavaScript",
     "TypeScript",
