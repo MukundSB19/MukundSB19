@@ -25,6 +25,7 @@
   },
   "motto": "Design like a user. Build like a hacker. Ship like a founder.",
   "contact": {
+    "portfolio": "https://mukundsingh.site/"
     "email": "Mukundsingh05@outlook.com",
     "X": "[https://x.com/Mukundsinghhh](https://x.com/Mukundsinghhh)"
   }
