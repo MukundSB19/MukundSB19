@@ -16,8 +16,6 @@
     "UI/UX Design",
     "Node js",
     "Postgre SQL",
-    
-
   ],
   "currently": {
     "building": "Projects with the latest mobile technologies.",
