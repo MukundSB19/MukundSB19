@@ -7,13 +7,17 @@
   "title": "Mobile App developer",
   "passion": "Building clean, real-time, user-friendly mobile apps.",
   "skills": [
-    "React js"
+    "React js",
+    "Next js",
     "React Native",
     "JavaScript",
     "TypeScript",
     "Expo",
     "UI/UX Design",
-    "Node js"
+    "Node js",
+    "Postgre SQL",
+    
+
   ],
   "currently": {
     "building": "Projects with the latest mobile technologies.",
