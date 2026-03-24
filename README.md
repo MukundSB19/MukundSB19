@@ -1,8 +1,10 @@
+
+json
 {
   "name": "Mukund Singh Bisht",
   "age": 20,
   "title": "Software Developer",
-  "passion": "Building clean, real-time, user-friendly mobile apps & software",
+  "passion": "Building clean, scalable, user-friendly mobile apps & software",
   "skills": [
     "React JS",
     "Next JS",
